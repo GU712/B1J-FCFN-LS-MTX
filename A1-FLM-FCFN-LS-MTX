@@ -72,21 +72,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "I"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B]Infinito (2021)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=jzv4R2OlAco$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Infinito[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:304db2fec8901e996b066b74e5d5c010d2f818b4$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Infinito - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85fafc1877dad5a1ff5c675bb9a5768d3ac04a7b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Infinito - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Infinito.2021.HD.DUAL.LFX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Infinito - HD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/wjQXZTlFM3PVEUmKf1sUajjygqT.jpg</fanart>
-<info>Um jovem perturbado, assombrado por lembranças de duas vidas passadas, depara-se com uma antiga sociedade secreta de indivíduos semelhantes e ousa juntar-se a eles.</info>
-<genre>FICÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
+<item>				
+<title>[COLOR white][B]Infinito (2021)[/B][/COLOR]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=jzv4R2OlAco$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Infinito[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:304db2fec8901e996b066b74e5d5c010d2f818b4$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Infinito - HD DUAL[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85fafc1877dad5a1ff5c675bb9a5768d3ac04a7b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Infinito - FHD DUAL[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Infinito.2021.HD.DUAL.LFX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Infinito - HD DUB[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/wjQXZTlFM3PVEUmKf1sUajjygqT.jpg</fanart>				
+<info>Um jovem perturbado, assombrado por lembranças de duas vidas passadas, depara-se com uma antiga sociedade secreta de indivíduos semelhantes e ousa juntar-se a eles.</info>				
+<genre>FICÇÃO</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "J"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -103,7 +103,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>FICÇÃO E FANTASIA</genre>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+
+<item>				
+<title>[COLOR white][B]Jornada nas Estrelas II: A Ira de Khan (1982)[/B][/COLOR]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=vOIYaRb6XpQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Jornada nas Estrelas II - A Ira de Khan[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5869E59C1AE950173FAE98897EA7F267C70B454$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jornada nas Estrelas II - A Ira de Khan - HD DUAL[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FA2BCA84B379907FCDB1127521886C0B4FF60236$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jornada nas Estrelas II - A Ira de Khan - FHD DUAL[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/FLMS/LS/LS-Star%20Treek.II.A.Ira.de.Khan.1982.HD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Jornada nas Estrelas II - A Ira de Khan - HD DUAL+LEG[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Trek/FLMS/LS/LS-Star%20Treek.II.A.Ira.de.Khan.1982.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Jornada nas Estrelas II - A Ira de Khan - FHD DUAL+LEG[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/b9FyLkPyIXqZC1IunApc6e7xJ6l.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/7lSZ0bceeMbE0PvqYuyt7xoo9NP.jpg</fanart>				
+<info>No final do universo encontra-se o início da vingança.</info>				
+<genre>STAR TREEK</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "K"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -115,33 +129,33 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "M"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[B][COLOR white]Matrix Resurrections (2021) [/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=miVDmEdypOc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Matrix Resurrections [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b58d022d6620081adcace397254a69ce2350c223$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Matrix Resurrections  - HD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UDW7764OYADXSL7PMQIUHZCMTYJJU5GC$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Matrix Resurrections  - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Matrix.Resurrections%202021.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Matrix Resurrections  - FHD DUAL[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9DT4WVqZqBEI9Kub18gZ3m1D89m.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/hv7o3VgfsairBoQFAawgaQ4cR1m.jpg</fanart>
-<info>Em um mundo de duas realidades — a vida cotidiana e o que está por trás dela</info>
-<genre>FICÇÃO E FANTASIA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>	
-<title>[COLOR white][B]Moonfall - Ameaça Lunar (2022)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=Yt5EGKxpmhE$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Moonfall - Ameasa Lunar[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:082f78e0b501df6bab7d391cadb4aed1cd93b7ef$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Moonfall - Ameasa Lunar - HD LEG[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ncdmpde44isvpypq6hkfru3g4gzjvnyy$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Moonfall - Ameasa Lunar - FHD DUAL[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Moonfall.Ameasa.Lunar.2022.FHD.DUAL+LEGFIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Moonfall - Ameasa Lunar - FHD DUAL[/B][/COLOR]</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/ACl5NQBHeEvypdVlaaE868bwFs.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/x747ZvF0CcYYTTpPRCoUrxA2cYy.jpg</fanart>	
-<info>Poucas semanas antes do impacto e com a humanidade à beira da aniquilação, a ex-astronauta da NASA Jo Fowler está convencida de que tem a resposta para salvar o planeta.</info>	
-<genre>FICÇÃO E FANTASIA</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
+				
+<item>				
+<title>[B][COLOR white]Matrix Resurrections (2021) [/COLOR][/B]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=miVDmEdypOc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Matrix Resurrections [/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b58d022d6620081adcace397254a69ce2350c223$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Matrix Resurrections  - HD LEG[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UDW7764OYADXSL7PMQIUHZCMTYJJU5GC$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Matrix Resurrections  - FHD DUAL[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Matrix.Resurrections%202021.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Matrix Resurrections  - FHD DUAL[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/9DT4WVqZqBEI9Kub18gZ3m1D89m.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/hv7o3VgfsairBoQFAawgaQ4cR1m.jpg</fanart>				
+<info>Em um mundo de duas realidades — a vida cotidiana e o que está por trás dela</info>				
+<genre>FICÇÃO E FANTASIA</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
+<item>				
+<title>[COLOR white][B]Moonfall - Ameaça Lunar (2022)[/B][/COLOR]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=Yt5EGKxpmhE$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Moonfall - Ameasa Lunar[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:082f78e0b501df6bab7d391cadb4aed1cd93b7ef$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Moonfall - Ameasa Lunar - HD LEG[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ncdmpde44isvpypq6hkfru3g4gzjvnyy$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Moonfall - Ameasa Lunar - FHD DUAL[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Moonfall.Ameasa.Lunar.2022.FHD.DUAL+LEGFIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Moonfall - Ameasa Lunar - FHD DUAL[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/ACl5NQBHeEvypdVlaaE868bwFs.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/x747ZvF0CcYYTTpPRCoUrxA2cYy.jpg</fanart>				
+<info>Poucas semanas antes do impacto e com a humanidade à beira da aniquilação, a ex-astronauta da NASA Jo Fowler está convencida de que tem a resposta para salvar o planeta.</info>				
+<genre>FICÇÃO E FANTASIA</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
 <item>				
 <title>[COLOR white][B]Monster Hunter (2020)[/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=U3iUJ8f8nrE$nome=[COLOR orange][B]TRAILER[COLOR yellow] ->[COLOR white]Monster Hunter[/B][/COLOR]</link>				
@@ -166,20 +180,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "P"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]Pinóquio (2021)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=jFSHLeIFL_0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Pinoquio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24aeea4d689a77f20bf6264bdbf87fd3a0363ca7$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Pinoquio - HD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a55b9dade2f8fcf8635ad45bf52943c7b2f2ee8c$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Pinoquio - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Pinoquio.2021.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Pinoquio - FHD DUAL[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9EuGKjsYegO58RaMYWGvnurHo7u.jpg </thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/vaF9tGUsmK9GttgO6WqkX4BoGfX.jpg </fanart>
-<info>Quando o marceneiro Geppetto vê uma estrela cadente, ele deseja que o boneco que acabou de terminar, Pinóquio , possa se tornar um garoto de verdade. À noite, a Fada Azul concede o desejo de Geppetto e pede ao Grilo Falante que sirva como a consciência do garoto de madeira. Mas o ingênuo e confiante Pinóquio tem uma limitação: Quando mente, seu nariz cresce. </info>
-<genre>FICÇÃO E FANTASIA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+				
+<item>				
+<title>[COLOR white][B]Pinóquio (2021)[/B][/COLOR]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=jFSHLeIFL_0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Pinoquio[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24aeea4d689a77f20bf6264bdbf87fd3a0363ca7$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Pinoquio - HD LEG[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a55b9dade2f8fcf8635ad45bf52943c7b2f2ee8c$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Pinoquio - FHD DUAL[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Pinoquio.2021.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Pinoquio - FHD DUAL[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9EuGKjsYegO58RaMYWGvnurHo7u.jpg </thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/vaF9tGUsmK9GttgO6WqkX4BoGfX.jpg </fanart>				
+<info>Quando o marceneiro Geppetto vê uma estrela cadente, ele deseja que o boneco que acabou de terminar, Pinóquio , possa se tornar um garoto de verdade. À noite, a Fada Azul concede o desejo de Geppetto e pede ao Grilo Falante que sirva como a consciência do garoto de madeira. Mas o ingênuo e confiante Pinóquio tem uma limitação: Quando mente, seu nariz cresce. </info>				
+<genre>FICÇÃO E FANTASIA</genre>  				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "Q"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -187,20 +201,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "R"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]Reino de Fogo (2002)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=oARoFhP4P18$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Reino de Fogo[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47420f3f3be786069a39a047089576dd20dcd126$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Reino de Fogo - HD DUAL[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4dad2ef79b2ed1f9c3863846eaa38ac58e45b2ca$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Reino de Fogo - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Reino.de.Fogo.2002.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Reino de Fogo - FHD DUAL+LEG[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4XiWjJv1A5wV0REkJzcnalZIFgx.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/oBnLeIBwGafw3H8bDxVfYQ9hXEt.jpg</fanart>
-<info>Acidentalmente uma engenheira desperta um perigoso dragão, que estava adormecido há séculos.</info>
-<genre>FICÇÃO E FANTASIA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+				
+<item>				
+<title>[COLOR white][B]Reino de Fogo (2002)[/B][/COLOR]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=oARoFhP4P18$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Reino de Fogo[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47420f3f3be786069a39a047089576dd20dcd126$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Reino de Fogo - HD DUAL[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4dad2ef79b2ed1f9c3863846eaa38ac58e45b2ca$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Reino de Fogo - FHD DUAL[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Reino.de.Fogo.2002.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Reino de Fogo - FHD DUAL+LEG[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/4XiWjJv1A5wV0REkJzcnalZIFgx.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/oBnLeIBwGafw3H8bDxVfYQ9hXEt.jpg</fanart>				
+<info>Acidentalmente uma engenheira desperta um perigoso dragão, que estava adormecido há séculos.</info>				
+<genre>FICÇÃO E FANTASIA</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "S"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -300,4 +314,5 @@ SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
-
+				
+				
