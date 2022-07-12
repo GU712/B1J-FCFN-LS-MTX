@@ -27,26 +27,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
 <link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 14 EPs[/B][/COLOR]</link>		
 		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>		
-<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>		
-<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/xS0xAywWamTadySCbi5yftp3kzQ.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/tFXozuubURDnBXY4IOUwzSLQWT2.jpg</fanart>		
-<info>Uma ilha  onde qualquer desejo pode ser realizado. O anfitrião dessa ilha é o senhor Roarke e o pequeno Tattoo, um anãozinho muito simpático.</info>		
-<genre>FICÇÃO E FANTASIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Ilha da Fantasia (1978) - T02 - HD DUB[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 25 EPs[/B][/COLOR]</link>		
-		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T01/LS-T01E01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Fuga / Garotas Cinderela[/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T01/LS-T01E02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Apostas na Mesa / O Irresistivel[/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T01/LS-T01E03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Principe / O Xerife[/B][/COLOR]</link>		
@@ -62,7 +42,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T01/LS-T01E13.mp4$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Um Cliente Mais do que Importante / Prazer em Dobro[/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T01/LS-T01E14.mp4$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Meu Nome e Sorte / Cantora de Cabare[/B][/COLOR]</link>		
 		
-<thumbnail>https://www.themoviedb.org/t/p/original/AdYywmao2V87QVdRxr46zJpNrVy.jpg</thumbnail>		
+<thumbnail>https://www.themoviedb.org/t/p/original/xS0xAywWamTadySCbi5yftp3kzQ.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/tFXozuubURDnBXY4IOUwzSLQWT2.jpg</fanart>		
 <info>Uma ilha  onde qualquer desejo pode ser realizado. O anfitrião dessa ilha é o senhor Roarke e o pequeno Tattoo, um anãozinho muito simpático.</info>		
 <genre>FICÇÃO E FANTASIA</genre>		
@@ -70,9 +50,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
 <item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Ilha da Fantasia (1979) - T03 - HD DUB[/B][/COLOR]</title>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Ilha da Fantasia (1978) - T02 - HD DUB[/B][/COLOR]</title>		
 		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 23 EPs[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 25 EPs[/B][/COLOR]</link>		
 		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T02/LS-T02E01.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Sheik / O regresso a casa[/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T02/LS-T02E02.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Ursa Maior / O Pirata[/B][/COLOR]</link>		
@@ -100,6 +80,42 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T02/LS-T02E24.mp4$nome=[COLOR orange][B]T02E24[COLOR yellow] -> [COLOR white]Boliche / Desempenho de Comando[/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T02/LS-T02E25.mp4$nome=[COLOR orange][B]T02E25[COLOR yellow] -> [COLOR white]Parque de diversoes / Estrelas do rock[/B][/COLOR]</link>		
 		
+<thumbnail>https://www.themoviedb.org/t/p/original/AdYywmao2V87QVdRxr46zJpNrVy.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/tFXozuubURDnBXY4IOUwzSLQWT2.jpg</fanart>		
+<info>Uma ilha  onde qualquer desejo pode ser realizado. O anfitrião dessa ilha é o senhor Roarke e o pequeno Tattoo, um anãozinho muito simpático.</info>		
+<genre>FICÇÃO E FANTASIA</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Ilha da Fantasia (1979) - T03 - HD DUB[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 23 EPs[/B][/COLOR]</link>		
+		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E01.mp4$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Assassino de aluguel / O Nadador[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E02.mp4$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Ganso para o Gander / O Duble[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E03.mp4$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Tatuagem - o Deus do Amor / Flores de Magnolia[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E04.mp4$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]O Bebe / Maratona[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E05.mp4$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Gangue das Correntes / O Chefe[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E06.mp4$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Barao Vermelho / Jovem de Corasao[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E07.mp4$nome=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]O Casamento[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E08.mp4$nome=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Romance de Tatuagem / Faz-tudo[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E09.mp4$nome=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Ninguem Esta La / A Dansarina[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E10.mp4$nome=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]O Pug / Classe de 69[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E11.mp4$nome=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]A Vitima / A Sereia[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E12.mp4$nome=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Lideres de torcida / Abandonada[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E13.mp4$nome=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]O Inventor / Do Outro Lado[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E14.mp4$nome=[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Sosias / Enologo[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E15.mp4$nome=[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]Casamento Profano / Elizabeth[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E16.mp4$nome=[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]De ladroes de riquezas / Terror total[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E17.mp4$nome=[COLOR orange][B]T03E17[COLOR yellow] -> [COLOR white]Playgirl / Valhalla de Smith[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E18.mp4$nome=[COLOR orange][B]T03E18[COLOR yellow] -> [COLOR white]Afrodite / Dr. Jeckyll e Senhorita Hyde[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E19.mp4$nome=[COLOR orange][B]T03E19[COLOR yellow] -> [COLOR white]Swinger / Terrores da Mente[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E20.mp4$nome=[COLOR orange][B]T03E20[COLOR yellow] -> [COLOR white]Nona / Um milhao A.C.[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E21.mp4$nome=[COLOR orange][B]T03E21[COLOR yellow] -> [COLOR white]Mary Ann e Senhorita Sofisticada / Homem da Selva[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E22.mp4$nome=[COLOR orange][B]T03E22[COLOR yellow] -> [COLOR white]Meu justo farao / O poder[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Ilha.da.Fantasia/OLD/T03/LS-T03E23.mp4$nome=[COLOR orange][B]T03E23[COLOR yellow] -> [COLOR white]O Homem Aguia / Os Filhos de Menta[/B][/COLOR]</link>		
+		
 <thumbnail>https://www.themoviedb.org/t/p/original/vknkt8Qlp5n1EFBdcJ3mS2ccoAW.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/tFXozuubURDnBXY4IOUwzSLQWT2.jpg</fanart>		
 <info>Uma ilha  onde qualquer desejo pode ser realizado. O anfitrião dessa ilha é o senhor Roarke e o pequeno Tattoo, um anãozinho muito simpático.</info>		
@@ -123,3 +139,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
