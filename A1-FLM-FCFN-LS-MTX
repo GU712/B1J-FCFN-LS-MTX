@@ -170,7 +170,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>FICÇÃO E FANTASIA</genre>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+
+<item>
+<title>[COLOR white][B]Missão Alien (1988)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=a0407hQPrWE$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Missao Alien[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Missao.Alien.1988.HD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Missao Alien - HD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2wEyQkFXX6ReyW44YQa1kLQYkCg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lALrLB3m1vmTkAyoxUOtSaIPYyH.jpg</fanart>
+<info>No deserto de Mojave, Califórnia, uma pane na nave espacial obriga 300 mil humanóides a conviver com os humanos.</info>
+<genre>FICÇÃO E FANTASIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>				
 <title>[COLOR white][B]Moonfall - Ameaça Lunar (2022)[/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=Yt5EGKxpmhE$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Moonfall - Ameasa Lunar[/B][/COLOR]</link>				
